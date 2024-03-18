@@ -16,7 +16,7 @@ function Card({name, desc}) {
         <p className="mt-2 text-sm text-gray-300">
           {desc}
         </p>
-        <button className="mt-2 text-black inline-flex cursor-pointer items-center text-sm font-semibold text-white">
+        <button className="mt-2 text-black inline-flex cursor-pointer items-center text-sm font-semibold">
           View Profile &rarr;
         </button>
       </div>
